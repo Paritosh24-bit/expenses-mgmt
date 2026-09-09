@@ -1,0 +1,8 @@
+{
+  "name": "User Authentication and Management System",
+  "description": "A complete user authentication, role-based access control, and employee management system with Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
